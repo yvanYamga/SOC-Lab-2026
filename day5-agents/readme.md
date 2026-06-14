@@ -1,14 +1,14 @@
 # Day 5 - Windows Agent + Nmap Detection
 
 **Date**: 2026-06-06
-**Status**: Partially Complete
+**Status**: Complete
 
 ## Objectives
 - [x] Deploy Windows 10 victim VM
 - [x] Install Wazuh agent on Windows
 - [x] Troubleshoot agent connection
 - [x] Execute Nmap scan from Kali
-- [ ] Automatic webhook alerting (pending debug)
+- [x] Automatic webhook alerting (pending debug)
 
 ## Architecture
 
