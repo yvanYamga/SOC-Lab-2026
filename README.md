@@ -12,11 +12,11 @@
 |-----|------|-----------|--------|
 | 1 | 2026-06-01 | pfSense + Network Setup | ✅ |
 | 2 | 2026-06-02 | Wazuh AIO Deployment | ✅ |
-| 3 | 2026-06-03 | TheHive + Cortex | ⏳ |
+| 3 | 2026-06-03 | TheHive + Cortex | X |
 | 4 | 2026-06-04 | Wazuh → TheHive Integration | ✅|
-| 5 | 2026-06-05 | Agents + Victim Machines | ⏳ |
-| 6 | 2026-06-06 | Kali + First Scan Scenario | ⏳ |
-| 7 | 2026-06-07 | Brute Force + Incident Report #001 | ⏳ |
+| 5 | 2026-06-05 | Agents + Victim Machines | ✅ |
+| 6 | 2026-06-06 | Kali + First Scan Scenario | ✅ |
+| 7 | 2026-06-07 | Brute Force + Incident Report #001 | ✅ |
 
 ## Tech Stack
 - **SIEM**: Wazuh 4.7.3
